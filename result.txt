@@ -1,0 +1,22 @@
+------------ 10k transaction (0.1%) ------------
+Number of frequent 1_itemsets: 472
+Number of frequent 2_itemsets: 24085
+Number of frequent 3_itemsets: 8049
+Number of frequent 4_itemsets: 3786
+Number of frequent 5_itemsets: 2329
+Number of frequent 6_itemsets: 1115
+Number of frequent 7_itemsets: 407
+Number of frequent 8_itemsets: 111
+Number of frequent 9_itemsets: 21
+Number of frequent 10_itemsets: 2
+Number of association rules: 161856
+time: 14.673845 seconds
+------------ 1k transaction (1%) ------------
+Number of frequent 1_itemsets: 334
+Number of frequent 2_itemsets: 174
+Number of association rules: 0
+time: 0.119870 seconds
+------------ 100 transaction (10%) ------------
+Number of frequent 1_itemsets: 10
+Number of association rules: 0
+time: 0.004651 seconds
